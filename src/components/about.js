@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Portfolio() {
+export default function About() {
     return (
         <div>
-            Portfolio Page
+            About Page
         </div>
     )
 }
