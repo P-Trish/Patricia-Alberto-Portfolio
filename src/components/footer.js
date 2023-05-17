@@ -2,8 +2,9 @@ import React from 'react';
 
 export default function Footer() {
     return (
-        <div>
-            Footer
-        </div>
+        <footer className="sticky-bottom text-center">
+            
+           Thank you!
+        </footer>
     )
 }

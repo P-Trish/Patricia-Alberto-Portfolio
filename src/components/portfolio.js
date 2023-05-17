@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Portfolio() {
     return (
-        <div>
+        <div className='height'>
             Portfolio Page
         </div>
     )
