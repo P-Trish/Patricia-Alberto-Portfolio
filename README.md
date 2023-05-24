@@ -35,11 +35,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Bobbi Tarkany for tutoring 
+Ryan Fernandez for tutoring 
 
 ## License
 
@@ -53,4 +50,4 @@ If your project has a lot of features, list them here.
 
 ## Questions
 
-If you have any questions, please feel free to contact me at pkfalberto@gmail.com. 
+If you have any questions, please feel free to contact me at pkfalberto@gmail.com or visit my GitHub here: https://github.com/P-Trish
