@@ -4,6 +4,11 @@ import React from 'react';
 import Project1 from '../assets/images/Project1.png';
 import Project2 from '../assets/images/Project2.png';
 import Project3 from '../assets/images/Project3.png';
+import Project4 from '../assets/images/Project4.png';
+import Project5 from '../assets/images/Project5.png';
+import Project6 from '../assets/images/Project6.png';
+import Project7 from '../assets/images/Project7.png';
+
 
 export const projects = [
 {
@@ -31,28 +36,36 @@ export const projects = [
     image: Project3
 },
 {
-    name: "",
-    description: "",
-    tech: "",
-    deployed: "",
-    repository: "",
-    image:
+    name: "MERN Book Searching Engine",
+    description: "The motivation for this project was to take an API search engine built with a RESTful API and refractor into a GraphQL API built with Apollo Server. With this app, users are able to save book searches in the back end.",
+    tech: "Apollo Server, Express.js, GraphQL",
+    deployed: "https://whispering-eyrie-44486.herokuapp.com/",
+    repository: "https://github.com/P-Trish/MERN-Book-Searching-Engine-21",
+    image: Project4
 },
 {
-    name: "",
-    description: "",
-    tech: "",
-    deployed: "",
-    repository: "",
-    image:
+    name: "Note Takin Note Taker",
+    description: "This project is a Note Taker that can be used to create, save, and retrieve notes as well as delete notes that no longer have any use for the user. It utilizes the Express Node.js module in the back end and connects to an already existing front end created for note taking. I created a server in the back end with routes using Express.js.",
+    tech: "Express Node.js",
+    deployed: "https://lit-citadel-10370.herokuapp.com/",
+    repository: "https://github.com/P-Trish/Note-Takin-Note-Taker-11",
+    image: Project5
 },
 {
-    name: "",
-    description: "",
-    tech: "",
-    deployed: "",
-    repository: "",
-    image:
+    name: "Weathering Away",
+    description: "This project was built so that the user, possibly a traveler could look up the the current weather of a city they input into the search bar, and also receive a 5-day weather forecast for future reference or travel planning.",
+    tech: "jQuery, Open Weather API",
+    deployed: "https://p-trish.github.io/Weathering-Away/",
+    repository: "https://github.com/P-Trish/Weathering-Away",
+    image: Project6
+},
+{
+    name: "Hard Working Scheduler",
+    description: " This work day scheduler is a simple calendar app for scheduling user tasks between the hours of 9:00 AM to 5:00 PM. The motivation for this project was to utilize skills learned about third-party APIs and create a functioning scheduler to keep track of our daily tasks. This project was built for anyone that needs help with organization of tasks and events throughout their working hours.",
+    tech: "jQuery, JavaScript",
+    deployed: "https://p-trish.github.io/Hard-Working-Scheduler-5/",
+    repository: "https://github.com/P-Trish/Hard-Working-Scheduler-5",
+    image: Project7
 }
 ];
 
