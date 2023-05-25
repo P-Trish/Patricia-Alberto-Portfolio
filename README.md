@@ -17,7 +17,7 @@ run 'npm run start' in command line from root folder to spin up webpage
 
 ## Usage
 
-LINK TO DEPLOYED APPLICATION: 
+LINK TO DEPLOYED APPLICATION: https://p-trish.github.io/Patricia-Alberto-Portfolio/
 
 When an employer arrives on the landing page of my portfolio they are met with the "About Me" page.  In the header is a navigation bar with links to my Portfolio of projects on display, Contact Page with form to reach me and leave a message, and Resume page with a link to a .pdf file of my resume.  On every page is the footer with the GitHub and LinkedIn logos with links to my GitHub and LinkedIn pages embedded. 
 
