@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Patricia-Alberto-Portfolio/static/css/main.efef8234.css",
+    "main.js": "/Patricia-Alberto-Portfolio/static/js/main.c6805fe3.js",
+    "static/media/Project6.png": "/Patricia-Alberto-Portfolio/static/media/Project6.67567a7a096e972f6af7.png",
+    "static/media/Project3.png": "/Patricia-Alberto-Portfolio/static/media/Project3.9597f6af0feb4c6c176f.png",
+    "static/media/WomanWebDeveloper.jpeg": "/Patricia-Alberto-Portfolio/static/media/WomanWebDeveloper.2680f186a5c992a14ac0.jpeg",
+    "static/media/Project1.png": "/Patricia-Alberto-Portfolio/static/media/Project1.2cdeb3571dd127961d98.png",
+    "static/media/SKILLS.png": "/Patricia-Alberto-Portfolio/static/media/SKILLS.f7f62fd22f8206d0a63e.png",
+    "static/media/Project4.png": "/Patricia-Alberto-Portfolio/static/media/Project4.3d164a006af01299daa0.png",
+    "static/media/Project7.png": "/Patricia-Alberto-Portfolio/static/media/Project7.6c04abd76f3c3ca4b88e.png",
+    "static/media/Project2.png": "/Patricia-Alberto-Portfolio/static/media/Project2.656b2ecc49ae78bbd083.png",
+    "static/media/PatriciaAlbertoResTech23.pdf": "/Patricia-Alberto-Portfolio/static/media/PatriciaAlbertoResTech23.580cdaa7c74b4ba24879.pdf",
+    "static/media/Project5.png": "/Patricia-Alberto-Portfolio/static/media/Project5.2e9bdd67f82d64358759.png",
+    "index.html": "/Patricia-Alberto-Portfolio/index.html",
+    "main.efef8234.css.map": "/Patricia-Alberto-Portfolio/static/css/main.efef8234.css.map",
+    "main.c6805fe3.js.map": "/Patricia-Alberto-Portfolio/static/js/main.c6805fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efef8234.css",
+    "static/js/main.c6805fe3.js"
+  ]
+}
