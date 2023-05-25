@@ -8,7 +8,32 @@
   padding: 20px;
 }
 
+.aboutMe img {
+  height: 400px;
+  width: 500 px;
+  border-radius: 10px;
+}
 .skillsIcons {
   align-items: center;
   width:100%;
+}
+
+.contact-input {
+padding: 10px;
+margin: 10px;
+
+}
+
+#contact-message {
+  height: 150px;
+}
+
+.footer-icons img {
+width: 50px;
+height: 50px;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
 }

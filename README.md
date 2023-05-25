@@ -21,7 +21,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+npm i chakra-ui/react
+npm install react-bootstrap bootstrap
 
 ## Usage
 
@@ -37,6 +38,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 Bobbi Tarkany for tutoring 
 Ryan Fernandez for tutoring 
+
 
 ## License
 
