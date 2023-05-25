@@ -1,21 +1,25 @@
+
 .height {
   height: 100vh;
 }
-.aboutMe, .resumeInfo{
+.aboutMe, .resumeInfo, .portfolio-info, .project-info {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
+  padding: 45px;
 }
 
-.aboutMe img {
+.aboutMe img, .project-info img {
   height: 400px;
-  width: 500 px;
-  border-radius: 10px;
+  width: 500px;
+  border-radius: 5px;
+  margin: 20px;
+
 }
 .skillsIcons {
   align-items: center;
   width:100%;
+  padding: 35px;
 }
 
 .contact-input {
@@ -37,3 +41,31 @@ height: 50px;
   display: flex;
   justify-content: center;
 }
+
+.project-info a {
+  background-color: purple;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+.project-info h2 {
+font-weight: bolder;
+font-size: 25px;
+padding: 10px;
+}
+
+.resumeInfo a {
+  background-color: purple;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 25px;
+}
+
+.resumeInfo h2 {
+  font-weight: bolder;
+  font-size: 25px;
+  padding: 10px;
+  }

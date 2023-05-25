@@ -10,7 +10,7 @@ export default function About() {
         <img src= {WomanWebDeveloper} />
         <p>HELLO THERE!</p>
         <p>
-        I'm a Full-Stack developer in Burbank, CA with a background in
+        I'm Patricia - A Full-Stack Web Developer and Product Manager in Burbank, CA with a background in
         television and virtual reality production. 
         </p>
         <p>

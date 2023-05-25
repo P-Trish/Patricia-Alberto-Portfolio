@@ -12,7 +12,7 @@ export const projects = [
     tech: "HTML, CSS, JavaScript, TMBD API, Yelp API, and Semantic UI",
     deployed: "https://michrira.github.io/Robecodegroupproject/",
     repository: "https://github.com/Michrira/Robecodegroupproject.git",
-    image: {Project1}
+    image: Project1
 },
 {
     name: "Fitness Fiend",
@@ -20,7 +20,7 @@ export const projects = [
     tech: "Bcrypt, Sequelize, dotenv, express, express-handlebars, express-session, mySql2, chart.js",
     deployed: "https://fast-basin-24052.herokuapp.com/",
     repository: "https://github.com/P-Trish/Fitness-Fiend-by-40R-EYES",
-    image: {Project2}
+    image: Project2
 },
 {
     name: "Water Battle",
@@ -28,7 +28,31 @@ export const projects = [
     tech: "React, GraphQL, Node.js, Express.js, MongoDB, Mongoose ODM, JWT, React Audio Player ",
     deployed: "https://evening-ocean-56179.herokuapp.com/",
     repository: "https://github.com/ehmahdee/Waterbattle	",
-    image: {Project3}
+    image: Project3
+},
+{
+    name: "",
+    description: "",
+    tech: "",
+    deployed: "",
+    repository: "",
+    image:
+},
+{
+    name: "",
+    description: "",
+    tech: "",
+    deployed: "",
+    repository: "",
+    image:
+},
+{
+    name: "",
+    description: "",
+    tech: "",
+    deployed: "",
+    repository: "",
+    image:
 }
 ];
 
