@@ -23,6 +23,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 npm i chakra-ui/react
 npm install react-bootstrap bootstrap
+npm run start to see page
 
 ## Usage
 
