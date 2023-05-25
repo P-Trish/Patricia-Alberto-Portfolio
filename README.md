@@ -3,52 +3,53 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Hello World! This is my professional portfolio.  
+My motivation for creating this project is to showcase all the projects I have built during the UCLA Full Stack Bootcamp while demonstrating the skills I learned in React to develop my professional portfolio.  
 
 ## Installation
 
-npm i chakra-ui/react
-npm install react-bootstrap bootstrap
-npm run start to see page
+Use the command 'npm i' to install packages and dependencies needes for this project:
+@chakra-ui/react
+@react-bootstrap 
+@ootstrap
+
+run 'npm run start' in command line from root folder to spin up webpage 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+LINK TO DEPLOYED APPLICATION: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+When an employer arrives on the landing page of my portfolio they are met with the "About Me" page.  In the header is a navigation bar with links to my Portfolio of projects on display, Contact Page with form to reach me and leave a message, and Resume page with a link to a .pdf file of my resume.  On every page is the footer with the GitHub and LinkedIn logos with links to my GitHub and LinkedIn pages embedded. 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./src/assets/images/20_AboutMe.png)
+
+On the portfolio page is six web applications that I have built.  Each project has a description, lists tech used, and has links to the the deployed website and repository. 
+
+![alt text](./src/assets/images/20_PortfolioPage.png)
+
+On the Contact Page is a form that requires user input of their name, email, and a message they'd like to send.  All fields must be filled out in order to submit the form.  
+
+![alt text](./src/assets/images/20_ContactPage.png)
+
+The Resume page contains a link to view my resume as a PDF file.  It also lists a summary of what to find on my resume including education and technical skills.  
+
+![alt text](./src/assets/images/20_Resume.png)
+
+
+
 
 ## Credits
 
-Bobbi Tarkany for tutoring 
-Ryan Fernandez for tutoring 
+Special shout outs go to: 
 
+- Bobbi Tarkany for tutoring helping me get started on this project
+- Ryan Fernandez for tutoring hepling me finish this project
+- Bootstrap was used for styling
+- chakra-ui was used for the contact form 
 
 ## License
 
 Please refer to MIT License in the repo. 
-
-
-## Features
-
-If your project has a lot of features, list them here.
 
 
 ## Questions
