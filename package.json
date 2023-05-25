@@ -1,7 +1,7 @@
 {
   "name": "public",
   "version": "0.1.0",
-  "homepage": "https://p-trish.github.io/Patricia-Alberto-Portfolio"
+  "homepage": "https://p-trish.github.io/Patricia-Alberto-Portfolio",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
