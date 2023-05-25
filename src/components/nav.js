@@ -19,6 +19,9 @@ export default function Navbar({handlePageChange}) {
               <li className="nav-item">
                 <a className="nav-link" href="#contact"  onClick={() => handlePageChange('Contact')}>Contact</a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#resume"  onClick={() => handlePageChange('Resume')}>Resume</a>
+              </li>
             </ul>
           </div>
         </div>

@@ -1,3 +1,14 @@
 .height {
   height: 100vh;
 }
+.aboutMe, .resumeInfo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.skillsIcons {
+  align-items: center;
+  width:100%;
+}

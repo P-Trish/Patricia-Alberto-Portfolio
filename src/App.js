@@ -5,6 +5,7 @@ import Footer from './components/footer';
 import Contact from './components/contact';
 import Navbar from './components/nav';
 import Portfolio from './components/portfolio';
+import Resume from './components/resume';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -22,6 +23,9 @@ function App() {
     if (currentPage === 'Contact') {
       return <Contact />;
     }
+    if (currentPage === 'Resume') {
+      return <Resume  />;
+    }  
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
